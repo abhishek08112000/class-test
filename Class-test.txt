@@ -1,0 +1,19 @@
+6) ArrayList :
+	*) Manipulation is slow.
+	*) Reading of object is fast.
+	*) It uses dynamic lists.
+	*) It is used to list.
+
+  LinkedList:
+	*) Manipulation is fast.
+	*) Reading of object is slow.
+	*) It uses doubly lists.
+	*) It is used to list and queue.
+	
+
+11) By using "Encapsulation" hema can give security for her personalInformation.The access specifier used for this is "private".
+
+5) "Comparable" and "Comparator" sorted collection that we used in collection for sorting the data or object in the collection.
+
+10) Static polymorphism is used to call the methods at compile time.Dynamic polymorphism is used to call the method at the run time.
+
